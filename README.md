@@ -12,3 +12,5 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made With ❤️ by Max Jeong
+
+### ©️2019 Run Buddy, Inc 
